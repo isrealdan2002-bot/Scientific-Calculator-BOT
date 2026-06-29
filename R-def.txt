@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable btn_slick_blue
+drawable btn_slick_func
+drawable btn_slick_light
+drawable btn_slick_white
+drawable button_bg
+drawable calculator_bg
+drawable display_bg
+id display
+id expressionPreview
+layout activity_main
+mipmap calculator_icon
+string app_name
+style SlickFunc
+style SlickNum
+style SlickOp
+style SlickUtil
+style Theme.Calculator
